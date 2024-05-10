@@ -1,10 +1,3 @@
----
-share_link: https://share.note.sx/5ojbzt2f#hOS3nydCBG0Ofr1Ri0ORXRIjiLdy4tHttJDkDEB3ffM
-share_updated: 2024-05-10T02:27:17-07:00
-authors: Nikolas Yanek-Chrones
-year: 2024
-title: How to Metabarcode for the FjordPhyto Project
----
 # Foreword
 
 If you encounter any problems while following these steps, however minor, please submit an issue report [here](https://github.com/nikothomas/FjordPhytoIssues/issues). It's greatly appreciated! Acknowledgements to the [Galaxy Project](https://galaxyproject.org),[q2galaxy](https://github.com/qiime2/q2galaxy), and [Allen Lab](https://allen.physics.ucsd.edu) for creating the tools to follow.
